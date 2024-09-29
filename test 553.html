@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>W3.CSS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+  <title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+</head>
+
+
+  <head>
+    <style>
+      .popup {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+      
+      .popup .popuptext {
+        visibility: hidden;
+        width: 160px;
+        background-color: #555;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 8px 0;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        margin-left: -80px;
+      }
+      
+      .popup .popuptext::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #555 transparent transparent transparent;
+      }
+
+      .popup .show {
+        visibility: visible;
+        -webkit-animation: fadeIn 1s;
+        animation: fadeIn 1s;
+      }
+
+      @-webkit-keyframes fadeIn {
+        from {opacity: 0;} 
+        to {opacity: 1;}
+      }
+      
+      @keyframes fadeIn {
+        from {opacity: 0;}
+        to {opacity:1 ;}
+      }
+    </style>
+  </head>
+  <body style="text-align:center">
+
+    <h5>MILFHUNTER</h5>
+    
+    <div class="popup" onclick="myFunction()">Người mẹ đơn thân ở gần bạn
+      <span class="popuptext" id="myPopup"><a href="https://www.tiktok.com/@goofy_with_ninjago/video/7263744858701958433">WOW</a></span>
+    </div>
+    
+    <script>
+    // When the user clicks on div, open the popup
+    function myFunction() {
+      var popup = document.getElementById("myPopup");
+      popup.classList.toggle("show");
+    }
+    </script>
+    
+
+
+    </body>
+<body>
+
+  <div class="w3-container w3-center w3-animate-top">
+    <h1><style font-size="100px"></style><strong>Hạn hán</strong> </h1>
+    <pre><style font-size="30px"></style>Nhóm 5</pre>
+  </div>
+
+  <div class="w3-container w3-center w3-animate-top">
+    <h1><style font-size="100px"></style><strong>I.Khái niệm:</strong> </h1>
+    <pre><style font-size="30"></style>- Thiên tai gây thiếu nước nghiêm trọng</pre>
+    <pre><style font-size="30"></style>- Xảy ra trong thời gian dài</pre>
+    <pre><style font-size="30px"></style>==>Thiệt hại diện rộng đến nhiều mặt của cuộc sống</pre>
+  </div>
+
+
+
+  <div class="w3-container w3-center w3-animate-zoom">
+    <h1><strong>II. Nguyên nhân:</strong></h1>
+    <pre>1. Thiếu hụt lượng mưa</pre>
+    <pre>2. Biến đổi khí hậu</pre>
+    <pre>3. Sự thay đổi của hệ thống áp suất khí quyển</pre>
+    <pre>4. Tác động của con người</pre>
+    <pre>5. Suy giảm lớp phủ thực vật</pre>
+    <pre>6. Tăng dân số và nhu cầu sử dụng nước</pre>
+  </div>
+  
+
+
+
+
+     <div class="w3-container w3-center w3-animate-opacity">
+        <h1><strong>III. Thực trạng:</strong></h1>
+        <pre>- Tình hình năm 2024 nghiêm trọng.</pre>
+        <pre>- Nhiều khu vực thiếu hụt nước, thiệt hại nông nghiệp ===> đe dọa an ninh lương thực.</pre>
+        <pre><strong>Châu Phi:</strong></pre>
+        <pre>+ Phía nam: Thiếu nước, lương thực.</pre>
+        <pre>+ Bắc Phi: hạn hán kéo dài, trong tình trạng khẩn cấp.</pre>
+        <pre>- Giữa năm 2024, 28% diện tích châu Phi trong tình trạng hạn hán.</pre>
+        <pre><strong>Châu Á:</strong></pre>
+        <pre>+ Ấn Độ, Trung Quốc, Trung Á: Nhiệt độ cao, trầm trọng tình trạng hạn hán.</pre>
+        <pre>+ Ấn Độ: 24% diện tích hạn hán. Bắc châu Á tương tự.</pre>
+        <video controls>
+            <source src="C:\cpp\temp\Hạn hán đang trên đà trở thành “đại dịch” tiếp theo - Tin thế giới - VNEWS.mp4" type="video/mp4">
+          </video>
+          
+      </div>
+
+      <div class="w3-container">
+        <h1><strong> Giải pháp:</strong></h1>
+        <pre><strong>AHIHI</strong></pre>
+      </div>
+
+
+
+
+
+  <style>
+    pre{
+        font-size: larger;
+    }
+
+    h2{
+      text-align: left;
+      font-size: 20px;
+    }
+  p{
+    text-align: left;
+    font-size: large;
+  }
+  h3{
+    text-align: center;
+    font-size: 70px;
+  }
+  h4{
+    text-align: left;
+    font-size: large;
+  }
+  h6{
+    text-align: left;
+    font-size:large;
+  } 
+  body{
+    width=100vw
+    height=100vw
+    background-image: url('C:\cpp\temp\New-Facebook-Size-81-768x432-1.jpg');
+    background-size: cover;
+  }
+  
+  </style>
+  <body background="C:\cpp\temp\4k-blue-minimalist-deer-5fc2dalaakntatt7.jpg"; display="flex"></body>
+</body>
+
+<html>
+
+<head>
+
+<title>Quiz Questions And Answers</title>
+
+</head>
+
+<body>
+
+<center><h3>Quiz Questions</h3></center>
+
+<p>
+
+<form name="quiz">
+
+<p><b>
+  <hr>
+  Question 1.
+
+<br>Hạn hán là gì?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q1" value="Là một thời gian kéo dài nhiều tháng hay nhiều năm khi một khu vực trải qua sự thiếu nước">A. Là một thời gian kéo dài nhiều tháng hay nhiều năm khi một khu vực trải qua sự thiếu nước<br>
+
+<input type="radio" name="q1" value="Là hiện tượng một luồng không khí xoáy tròn mở rộng ra từ một đám mây giông xuống tới mặt đất
+">B. Là hiện tượng một luồng không khí xoáy tròn mở rộng ra từ một đám mây giông xuống tới mặt đất<br>
+
+<input type="radio" name="q1" value="Là một trạng thái nhiễu động của khí quyển và là 1 loại hình thời tiết cực đoan
+">C. Là một trạng thái nhiễu động của khí quyển và là 1 loại hình thời tiết cực đoan<br>
+<input type="radio" name="q1" value="Là sự rung chuyển trên bề mặt Trái Đất do kết quả của sự giải phóng năng lượng bất ngờ ở lớp vỏ Trái Đất và phát sinh ra sóng địa chấn
+">D. Là sự rung chuyển trên bề mặt Trái Đất do kết quả của sự giải phóng năng lượng bất ngờ ở lớp vỏ Trái Đất và phát sinh ra sóng địa chấn
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+Question 2.
+
+<br>Nguyên nhân chính gây ra hạn hán là gì?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q2" value="Mưa lớn kéo dài">A. Mưa lớn kéo dài<br>
+
+<input type="radio" name="q2" value="Không có lượng mưa đủ">B. Không có lượng mưa đủ<br>
+
+<input type="radio" name="q2" value="Động đất">C. Động đất<br>
+
+<input type="radio" name="q2" value="Gió mạnh">D. Gió mạnh<br>
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+Question 3.
+
+<br>Hạn hán ảnh hưởng như thế nào đến cây trồng?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q3" value="Cây trồng phát triển tốt hơn">A. Cây trồng phát triển tốt hơn <br>
+
+<input type="radio" name="q3" value="Cây trồng mọc nhiều hơn">B. Cây trồng mọc nhiều hơn<br>
+
+<input type="radio" name="q3" value="Cây trồng bị thiếu nước và héo úa">C. Cây trồng bị thiếu nước và héo úa<br>
+
+<input type="radio" name="q3" value="Cây trồng chuyển sang màu xanh">D. Cây trồng chuyển sang màu xanh<br>
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+Question 4.
+
+<br>Biện pháp nào có thể giúp giảm tác động của hạn hán?<br></b>
+
+<blockquote>
+
+<input type="radio" name="q4" value="Tích trữ và sử dụng nước hiệu quả">A. Tích trữ và sử dụng nước hiệu quả<br>
+
+<input type="radio" name="q4" value="Lãng phí nước">B. Lãng phí nước<br>
+
+<input type="radio" name="q4" value="Đốt rừng">C. Đốt rừng<br>
+
+<input type="radio" name="q4" value="Không sử dụng nước">D. Không sử dụng nước<br>
+
+</blockquote>
+
+<p><b>
+
+<hr>
+
+Question 5.
+
+<br>Vùng hay xảy ra hạn hán kéo dài và gay gắt nhất nước ta là:<br></b>
+
+<blockquote>
+
+<input type="radio" name="q5" value="Duyên hải Bắc Trung Bộ">A. Duyên hải Bắc Trung Bộ<br>
+
+<input type="radio" name="q5" value="Duyên hải cực Nam Trung Bộ">B. Duyên hải cực Nam Trung Bộ<br>
+
+<input type="radio" name="q5" value="Tây Bắc">C. Tây Bắc<br>
+
+<input type="radio" name="q4" value="Đông Bắc Bộ">D. Đông Bắc Bộ<br>
+
+</blockquote>
+
+<p><b>
+
+
+
+<p><b>  
+
+<input type="button"value="Grade Me"onClick="getScore(this.form);">
+
+<input type="reset" value="Clear"><p>
+
+Number of score out of 5 = <input type= text size 5 name= "mark">
+
+Score in percentage = <input type=text size=5 name="percentage"><br>
+
+</form>
+
+<p>
+
+<form method="post" name="Form" onsubmit="" action="">
+
+</form>
+
+</body>
+
+<script>
+
+var numQues = 5;
+
+var numChoi = 4;
+
+var answers = new Array(5);
+
+answers[0] = "Là một thời gian kéo dài nhiều tháng hay nhiều năm khi một khu vực trải qua sự thiếu nước";
+
+answers[1] = "Không có lượng mưa đủ";
+
+answers[2] = "Cây trồng bị thiếu nước và héo úa";
+
+answers[3] = "Tích trữ và sử dụng nước hiệu quả";
+
+answers[4] = "Duyên hải cực Nam Trung Bộ";
+
+
+
+function getScore(form) {
+
+var score = 0;
+
+var currElt;
+
+var currSelection;
+
+for (i=0; i<numQues; i++) {
+
+currElt = i*numChoi;
+
+answered=false;
+
+for (j=0; j<numChoi; j++) {
+
+currSelection = form.elements[currElt + j];
+
+if (currSelection.checked) {
+
+answered=true;
+
+if (currSelection.value == answers[i]) {
+
+score++;
+
+break;
+
+}
+
+}
+
+}
+
+if (answered ===false){alert("Do answer all the questions, Please") ;return false;}
+
+}
+
+var scoreper = Math.round(score/numQues*100);
+
+form.percentage.value = scoreper + "%";
+
+form.mark.value=score;
+
+}
+
+</script>
+
+</html>
+
+
+  </html>
